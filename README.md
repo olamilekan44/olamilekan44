@@ -2,7 +2,7 @@
 
 # I'm a skilled Frontend Developer
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on My Frontend Skills
 - 🌱 I’m currently learning Frontend Technologies
 - 👯 I’m looking to collaborate on projects(available for freelance work)
 - 🤔 I’m looking for help with ...SDKs
